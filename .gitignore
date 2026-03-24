@@ -1,0 +1,11 @@
+# General C++ Build Artifacts
+*.o
+*.out
+*.exe
+
+# Java Build Artifacts
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
